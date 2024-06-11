@@ -1,0 +1,53 @@
+<html>
+<head>
+<title> empresa de joyas </title>
+</head>
+<body bgcolor="#D9D9F3">
+<p align= "center"><a name="inicio">
+<font size=+3><u> LUXURY GEMS </u></font></p>
+
+
+<dir>
+<p align="center">
+<img src="\Users\abogjaque\Pictures\LOGOOOAAA.png" width="100" height="100" ALIGN=CENTER></P>
+<hr>
+<hr>
+<hr width="80%">
+
+<dir>
+<li><p align="center"><a href="#foto1"> MISION </a></p>
+</li>
+<li><p align="center"><a href="#foto2"> VISION </a></p>
+</li>
+<li><p align="center"><a href="#foto3"> OBJETIVOS GENERALES </a></p>
+</li>
+<li><p align="center"><a href="#inicio"> volver al principio de la pagina </a></p>
+</li>
+</dir>
+
+<hr width="80%">
+<hr>
+
+<center>
+
+<p align="center"><a name="foto1"></a><font color="#008000" size="10"> MISION </font></p>
+
+<img src="\Users\abogjaque\Pictures\mision.jpg" width="500" height="500" ALIGN=TOP>
+<hr>
+
+<p align="center"><a name="foto2"></a><font color="#008000" size="10"> VISION </font></p>
+
+<img src="\Users\abogjaque\Pictures\vision.jpg" width="500" height="500" ALIGN=MIDDLE>
+<hr>
+
+
+<p align="center"><a name="foto3"></a><font color="#008000" size="10"> OBJETIVOS GENERALES </font></p>
+
+<img src="\Users\abogjaque\Pictures\objetivos generales.jpg" width="500" height="500" ALIGN=BOTTEM>
+<hr>
+
+
+<p align="center"><a href="#inicio"> volver al principio de la pagina </a></p>
+</center>
+</body>
+</html>
